@@ -1,0 +1,25 @@
+{
+"Personal": {
+      "name":"Subash B",
+     "number":"987654321",
+      "email":"bsubashofcl@gmail.com",
+      "place":"Chennai"
+  },
+  "AcademicQualification":{
+    "Graduate":{
+        "educations" : "B.sc",
+        "university": "Alagappa University ",
+        "percentage" : 79.2,
+        "year":2022
+
+    },
+    "HSC":{
+        "board" : "Poncos Higher Secondary School ",
+        "percentage" : 65,
+        "year":2019
+    }
+},
+  "skill":{
+      "skillSet":["HTML","CSS","Javascript","JAVA"]
+  }
+}
